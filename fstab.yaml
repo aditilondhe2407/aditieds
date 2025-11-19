@@ -1,5 +1,5 @@
 mountpoints:
-  /:
-    url: "https://author-p52710-e1559444.adobeaemcloud.com/bin/franklin.delivery/aditilondhe2407/aditieds/main"
-    type: "markup"
-    suffix: ".html"
+/:
+url: "https://author-p52710-e1559444.adobeaemcloud.com/bin/franklin.delivery/aditilondhe2407/aditieds/main%22
+type: "markup"
+suffix: ".html"
