@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aditieds9/:/",
-    "/content/aditieds9/configuration:/.helix/config.json",
-    "/content/aditieds9/metadata:/metadata.json"
+    "/content/aditieds7/:/",
+    "/content/aditieds7/configuration:/.helix/config.json",
+    "/content/aditieds7/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aditieds9/"
+    "/content/aditieds7/"
   ]
 }
